@@ -1,4 +1,4 @@
-## **Welcome** to fork and contribute to it.
+## Welcome to fork and contribute to it.
 
 ### Tools
 * [Modernizr](https://github.com/Modernizr/Modernizr)  
@@ -22,6 +22,15 @@ Raphaël is a small JavaScript library that should simplify your work with vecto
 * [D3.js](http://d3js.org/)  
 D3.js is a JavaScript library for manipulating documents based on data.
 
+* [webkit css library](http://ued.ctrip.com/blog/wp-content/webkitcss/)  
+webkit only css lookup
+
+* [cpujs](https://github.com/grz/cpujs)
+A javascript tool which was made to monitor performance of webpage,it has a very useful tool named TaskManager can help developers to manage the js tasks in order to pervent page stuck.
+
+* [FIS](http://fis.baidu.com/)  
+Frontend Integrated Solution.
+
 
 ### Design
 * [Codrops](https://github.com/codrops)  
@@ -41,3 +50,14 @@ FFF is a collection of interactive experiences. Each experience has its own uniq
 
 * [SOLARIZED](http://ethanschoonover.com/solarized)  
 Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. 
+
+### sites collections
+
+* [mobileTech](https://github.com/jtyjty99999/mobileTech)  
+A useful tools or tips list for mobile web application developing.
+
+* [fks](https://github.com/JacksonTian/fks)  
+Frontend Knowledge Structure.
+
+* [velocity 2013](http://velocity.oreilly.com.cn/2013/index.php?func=slidesvideos)  
+velocity 2013
