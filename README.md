@@ -19,6 +19,9 @@ Ink is a set of tools for quick development of web interfaces.
 * [Raphaël](http://raphaeljs.com/)  
 Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
 
+* [D3.js](http://d3js.org/)  
+D3.js is a JavaScript library for manipulating documents based on data.
+
 
 ### Design
 * [Codrops](https://github.com/codrops)  
