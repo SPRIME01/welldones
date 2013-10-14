@@ -66,3 +66,6 @@ Frontend Knowledge Structure.
 
 * [velocity 2013](http://velocity.oreilly.com.cn/2013/index.php?func=slidesvideos)  
 velocity 2013
+
+* [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) [中文版](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Chinese)  
+A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
