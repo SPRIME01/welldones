@@ -31,6 +31,8 @@ A javascript tool which was made to monitor performance of webpage,it has a very
 * [FIS](http://fis.baidu.com/)  
 Frontend Integrated Solution.
 
+* [ghost](http://ghost.org/)  
+A blogging platform.
 
 ### Design
 * [Codrops](https://github.com/codrops)  
