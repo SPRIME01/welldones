@@ -69,3 +69,8 @@ velocity 2013
 
 * [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) [中文版](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Chinese)  
 A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
+### articles collections
+
+* [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)  
+Some useful tips with jQuery.
