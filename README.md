@@ -51,6 +51,9 @@ FFF is a collection of interactive experiences. Each experience has its own uniq
 * [SOLARIZED](http://ethanschoonover.com/solarized)  
 Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. 
 
+* [Effeckt.css](http://h5bp.github.io/Effeckt.css/dist/)  
+Performant CSS transitions & animations
+
 ### sites collections
 
 * [mobileTech](https://github.com/jtyjty99999/mobileTech)  
