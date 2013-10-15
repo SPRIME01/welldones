@@ -74,3 +74,6 @@ A list of helpful front-end related questions you can use to interview potential
 
 * [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)  
 Some useful tips with jQuery.
+
+* [Google's JavaScript style guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)  
+Google's JavaScript style guide.
