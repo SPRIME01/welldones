@@ -19,6 +19,9 @@ Ink is a set of tools for quick development of web interfaces.
 * [Raphaël](http://raphaeljs.com/)  
 Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
 
+* [Snap.svg](http://snapsvg.io/)  
+Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
+
 * [D3.js](http://d3js.org/)  
 D3.js is a JavaScript library for manipulating documents based on data.
 
