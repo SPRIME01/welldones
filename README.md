@@ -83,3 +83,5 @@ Some useful tips with jQuery.
 
 * [Google's JavaScript style guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)  
 Google's JavaScript style guide.
+
+* [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/) [中文版](http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles)
